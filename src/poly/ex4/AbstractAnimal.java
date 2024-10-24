@@ -1,4 +1,4 @@
-package poly.basic.ex4;
+package poly.ex4;
 
 public abstract class AbstractAnimal {
 

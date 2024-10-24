@@ -1,7 +1,7 @@
-package poly.basic.ex3;
+package poly.ex3;
 
-import poly.basic.ex2.Animal;
-import poly.basic.ex2.Dog;
+import poly.ex2.Animal;
+import poly.ex2.Dog;
 
 public class AbstractMain {
 

@@ -1,4 +1,4 @@
-package poly.basic.ex2;
+package poly.ex2;
 
 public class AnimalPolyMain3 {
 

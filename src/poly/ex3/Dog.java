@@ -1,9 +1,11 @@
-package poly.basic.ex2;
+package poly.ex3;
 
-public class Dog extends Animal{
+public class Dog extends AbstractAnimal{
 
     @Override
     public void sound() {
         System.out.println("멍멍");
     }
+
+
 }
